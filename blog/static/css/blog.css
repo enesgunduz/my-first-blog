@@ -1,0 +1,22 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.header{
+	background:orange;
+	height:200px;
+}
+.header > h1{
+	text-align: center;
+	
+}
+.header > h1 > a{
+	color:white;
+}
+h5{
+	font-weight: bold;
+}
+
+h6{
+	color:red;
+}
